@@ -2,7 +2,7 @@
 
 An interactive Web Application built with **Python**, **Streamlit**, and **Biopython** that performs real-time sequence analysis, transcription, translation, and amino acid distribution visualization.
 
-[![Streamlit App](https://ayhjtpu4l8nvurpc6yhwgi.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-STREAMLIT-URL.streamlit.app)
 
 ---
 
